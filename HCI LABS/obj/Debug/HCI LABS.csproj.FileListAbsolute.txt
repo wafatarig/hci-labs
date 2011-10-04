@@ -1,0 +1,14 @@
+c:\users\wafa\documents\visual studio 2012\Projects\HCI LABS\HCI LABS\bin\Debug\HCI LABS.exe.config
+c:\users\wafa\documents\visual studio 2012\Projects\HCI LABS\HCI LABS\obj\Debug\HCI LABS.csprojResolveAssemblyReference.cache
+c:\users\wafa\documents\visual studio 2012\Projects\HCI LABS\HCI LABS\obj\Debug\HCI_LABS.Form1.resources
+c:\users\wafa\documents\visual studio 2012\Projects\HCI LABS\HCI LABS\obj\Debug\HCI_LABS.Form2.resources
+c:\users\wafa\documents\visual studio 2012\Projects\HCI LABS\HCI LABS\obj\Debug\HCI_LABS.Properties.Resources.resources
+c:\users\wafa\documents\visual studio 2012\Projects\HCI LABS\HCI LABS\obj\Debug\HCI LABS.csproj.GenerateResource.Cache
+c:\users\wafa\documents\visual studio 2012\Projects\HCI LABS\HCI LABS\bin\Debug\HCI LABS.exe
+c:\users\wafa\documents\visual studio 2012\Projects\HCI LABS\HCI LABS\bin\Debug\HCI LABS.pdb
+c:\users\wafa\documents\visual studio 2012\Projects\HCI LABS\HCI LABS\obj\Debug\HCI LABS.exe
+c:\users\wafa\documents\visual studio 2012\Projects\HCI LABS\HCI LABS\obj\Debug\HCI LABS.pdb
+c:\users\wafa\documents\visual studio 2012\Projects\HCI LABS\HCI LABS\obj\Debug\HCI_LABS.Form3.resources
+c:\users\wafa\documents\visual studio 2012\Projects\HCI LABS\HCI LABS\obj\Debug\HCI_LABS.Form4.resources
+C:\Users\Wafa\documents\visual studio 2012\Projects\HCI LABS\HCI LABS\obj\Debug\HCI_LABS.Form5.resources
+C:\Users\Wafa\documents\visual studio 2012\Projects\HCI LABS\HCI LABS\obj\Debug\HCI_LABS.Form6.resources
